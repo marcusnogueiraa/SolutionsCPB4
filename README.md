@@ -7,6 +7,12 @@ Competitive Programming is a book focused on Competitive Programming (obviously)
 
 ### **[Book 1]**
 
-#### 1. Introduction
-
- - <a href="/Book 1/01 Introduction/01.1 IO + Sequences Only/">I/O + Sequences Only</a>
+#### 1.4 Getting Started: The Easy Problems
+#### 1.6 The Ad Hoc Problems
+#### 2.2 Linear DS With Built-in Libraries
+#### 2.3 Non-Linear DS With Built-in Libraries
+#### 2.4 DS With Our Own Libraries
+#### 3.2 Complete Search
+#### 3.3 Divide and Conquer
+#### 4.2 Graph Traversal
+#### 4.3 Minimum Spanning Tree (MST)
